@@ -286,8 +286,8 @@ Este segmento está conformado por técnicos automotrices, mecánicos e ingenier
 
 **Aspectos demográficos:**
   * **Sexo:** Mayoritariamente masculino, con creciente participación femenina
-  * **Edades: Entre 20 y 60 años
-  * **Nivel socioeconómico:
+  * **Edades:** Entre 20 y 60 años
+  * **Nivel socioeconómico:**
     *Ingenieros automotrices, técnicos especializados
     *Mecánicos con trayectoria y formación técnica sólida
     *Ayudantes de taller, aprendices
