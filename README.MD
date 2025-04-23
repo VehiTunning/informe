@@ -349,7 +349,7 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.003.png)
 
 **Colores:** <br>
-En cuanto a nuestra paleta de colores, esta consta únicamente de 2, los cuales son un azul(#5766F5) y un negro con un matiz claro(#595959).
+En cuanto a nuestra paleta de colores, esta consta únicamente de 2, los cuales son un azul(#5766F5) y un negro con un matiz claro(#595959). <br>
 ![A blue square with numbers
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.004.png)![A grey square with black text
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.005.png)
