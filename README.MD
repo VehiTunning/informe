@@ -334,31 +334,31 @@ Este segmento está conformado por técnicos automotrices, mecánicos e ingenier
 
 ## 4.1 Style Guidelines
 ### 4.1.1 General Style Guidelines
-**Branding:** 
+**Branding:** <br>
 Aunque en un principio optamos por la creación de un imagotipo, sentimos que saturaba la esencia de la aplicación, por lo que la final optamos por un diseño minimalista y moderno en representado en un logotipo con los colores representativos de nuestra marca.
 
 ![A blue and black text
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.001.png)
 
-**Tipografías:![A black text on a white background
-AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.002.png)**
-
+**Tipografías:** <br>
 Para las tipografías optamos por usar 3 variaciones de roboto(regular, italic semibold, black) y 2 variaciones de Plus Jakarta Sans(light, regular).
+![A black text on a white background
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.002.png)
 
 ![A black text on a white background
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.003.png)
 
-**Colores:**
+**Colores:** <br>
 
 En cuanto a nuestra paleta de colores, esta consta únicamente de 2, los cuales son un azul(#5766F5) y un negro con un matiz claro(#595959).![A blue square with numbers
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.004.png)![A grey square with black text
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.005.png)
 
-**Margin:**
+**Margin:** <br>
 
 Se optó por hacer uso de margin de elementos pequeños: verticalmente: 24px, horizontalmente 32px y para elementos grandes: verticalmente: 24px, horizontalmente 48px.
 
-**Responsive y breakpoints:**
+**Responsive y breakpoints:** <br>
 
 Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros optamos por definir los siguiente breakpoints, mimos que los podrias etiquetar como:
 
@@ -372,7 +372,9 @@ Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros opt
 
    Como se mencionó anteriormente se buscó que la landing fuese mucho más limpia por lo que el navbar no tiene iconos y el margin de 40px entre elementos ul y li mejora la UI.
 
-   ![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.006.png)Se tiene a su vez un section con algunas marcas de vehículos que ya hemos personalizado anteriormente, así como un article con algunas características acerca de nuestro producto.
+   ![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.006.png)
+
+Se tiene a su vez un section con algunas marcas de vehículos que ya hemos personalizado anteriormente, así como un article con algunas características acerca de nuestro producto.
 
    ![A screenshot of a website
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.007.png)
