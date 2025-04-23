@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/CAP1/UpcLogo.png" alt="Logo de UPC" width="100%">
+</p>
+
 <div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
@@ -191,6 +195,11 @@ URL Project Report (Github):
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
+# Conclusiones
+## Conclusiones y recomendaciones
+## Video About-the-Team
+# Bibliografía
+# Anexos
 
 
 
