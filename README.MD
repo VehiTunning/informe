@@ -143,7 +143,70 @@ URL Project Report (Github):
 
 ## 4.1 Style Guidelines
 ### 4.1.1 General Style Guidelines
+**Branding:** 
+Aunque en un principio optamos por la creación de un imagotipo, sentimos que saturaba la esencia de la aplicación, por lo que la final optamos por un diseño minimalista y moderno en representado en un logotipo con los colores representativos de nuestra marca.
+
+![A blue and black text
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.001.png)
+
+**Tipografías:![A black text on a white background
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.002.png)**
+
+Para las tipografías optamos por usar 3 variaciones de roboto(regular, italic semibold, black) y 2 variaciones de Plus Jakarta Sans(light, regular).
+
+![A black text on a white background
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.003.png)
+
+**Colores:**
+
+En cuanto a nuestra paleta de colores, esta consta únicamente de 2, los cuales son un azul(#5766F5) y un negro con un matiz claro(#595959).![A blue square with numbers
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.004.png)![A grey square with black text
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.005.png)
+
+**Margin:**
+
+Se optó por hacer uso de margin de elementos pequeños: verticalmente: 24px, horizontalmente 32px y para elementos grandes: verticalmente: 24px, horizontalmente 48px.
+
+**Responsive y breakpoints:**
+
+Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros optamos por definir los siguiente breakpoints, mimos que los podrias etiquetar como:
+
+- sm: pantallas menores a 640px.
+- lg: pantallas menores a 1024px.
+- xl: pantallas menores a 1280px.
+
+
 ### 4.1.2 Web Style Guidelines
+ **Enlace del figma: <https://www.figma.com/file/3puKCQI9HpY36ICGlYihgc/CarTunn-vFinal?type=design&node-id=224%3A2416&mode=design&t=w8OvXgMIblMERzsm-1>** 
+
+   Como se mencionó anteriormente se buscó que la landing fuese mucho más limpia por lo que el navbar no tiene iconos y el margin de 40px entre elementos ul y li mejora la UI.
+
+   ![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.006.png)Se tiene a su vez un section con algunas marcas de vehículos que ya hemos personalizado anteriormente, así como un article con algunas características acerca de nuestro producto.
+
+   ![A screenshot of a website
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.007.png)
+
+En la sección de Costumers presentamos un article con las opiniones de algunos de nuestros clientes con los que ya hayamos trabajado.
+
+![A screenshot of a website
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.008.png)
+
+Y finalmente se puede ver un article en la sección de pricing pues al trabajar dependiendo el vehículo, no existe un costo fijo pero se puede realizar una cotización. Sin olvidar otro article con información acerca de donde nos encontramos e información de contacto y el footer.
+
+![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.009.png)
+
+### 4.1.3. Mobile Style Guidelines.
+Importante: la web está diseñada a su vez para ser responsive, con plena compatibilidad con Android y IOS.
+
+### 4.1.3.1. iOS Mobile Style Guidelines.
+En el diseño del mockup para dispositivos móviles IOS la diferencia principal yace en el margin bottom que se tuvo que dejar para respetar el safe area característico de este tipo de dispositivos![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.010.png)
+
+### 4.1.3.2. Android Mobile Style Guidelines.
+En cuanto para dispositivos android este safe área es inexistente por lo que solo el diseño debe de respetar los principios grid y flexbox para el diseño responsive de la web. 
+
+
+![A screen shot of a cell phone
+AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.011.png)
 
 ## 4.2 Information Architecture
 ### 4.2.1 Organization Systems
