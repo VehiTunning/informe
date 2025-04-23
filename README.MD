@@ -174,8 +174,28 @@ Según Peru21 (2023), el auge del comercio electrónico ha incrementado notablem
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
+Nuestro servicio de personalización automotriz busca ofrecer una experiencia óptima tanto para los clientes interesados en modificar sus vehículos como para el personal técnico especializado que ejecuta estas modificaciones. Sin embargo, hemos identificado un desafío importante que afecta la efectividad del servicio: la falta de claridad en la comunicación y la poca transparencia en los procesos dificultan que los clientes comprendan plenamente las opciones disponibles. Esta situación impacta negativamente en su nivel de satisfacción y limita el potencial comercial del servicio.
+
+La experiencia actual revela que los usuarios enfrentan dificultades para explorar y entender las posibilidades de personalización, lo que los lleva a tomar decisiones poco informadas. A su vez, el personal técnico experimenta complicaciones para transmitir adecuadamente las alternativas, lo cual impide gestionar de forma eficiente las expectativas del cliente. Esta desconexión entre lo que los usuarios esperan y lo que el servicio puede ofrecer representa una brecha crítica que debemos cerrar.
+
+¿Cómo podemos rediseñar nuestra experiencia de personalización automotriz para mejorar la satisfacción del cliente y maximizar las oportunidades de negocio, mediante una comunicación más clara, procesos más accesibles y una experiencia de usuario más fluida?
+
+**Aspectos:**
+
+* **Domain:** Personalización automotriz.
+
+* **Customer Segments:** Clientes que buscan personalizar sus vehículos y personal técnico especializado en modificaciones automotrices.
+
+* **Pain Points:** Los clientes tienen dificultades para comprender y elegir entre las opciones de personalización, lo que genera decisiones poco acertadas y menor satisfacción. El personal técnico no cuenta con herramientas adecuadas para comunicar eficazmente las posibilidades, lo que afecta la experiencia del cliente y reduce las oportunidades de negocio.
+
+* **Gap:** Existe una desconexión entre las expectativas de los clientes y la capacidad del equipo técnico para ofrecer una experiencia alineada a estas.
+
+* **Visión/Strategy:** Desarrollar una plataforma intuitiva y accesible que acompañe al cliente en el proceso de personalización, facilitando la toma de decisiones informadas y fomentando una comunicación transparente entre cliente y técnico.
+
 #### 1.2.2.2 Lean UX Assumptions
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
+
 #### 1.2.2.4 Lean UX Canvas
 
 ## 1.3 Segmentos objetivo
