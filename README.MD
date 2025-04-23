@@ -22,7 +22,7 @@
 
 | Código      | Nombre                           |
 |-------------|----------------------------------|
-| U  | Luis Sebastian Chinchihualpa Saldarriaga   |
+| U202212112  | Luis Sebastian Chinchihualpa Saldarriaga   |
 | U  | Franky Oswald Mallma Espiritu   |
 | U20211G671  | Britney Delhy Qqueso Rodriguez   |
 
