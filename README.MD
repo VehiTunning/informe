@@ -121,28 +121,28 @@ Convertirnos en referentes globales en innovación para la personalización auto
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
-**What**
+#### What
 **¿Cuál es el problema?**
 En la actualidad, el sector de personalización automotriz enfrenta una falta alarmante de transparencia y un auge de prácticas poco éticas por parte de talleres y vendedores de accesorios. Esta situación genera desinformación entre los entusiastas del tuning, quienes no cuentan con el conocimiento necesario para diferenciar entre servicios auténticos y engañosos. Como resultado, muchos terminan tomando decisiones equivocadas, adquiriendo productos de baja calidad o pagando precios injustificados.
 
 **¿Cuál es la relación con la persona en cuestión?**
 El usuario final es un entusiasta automotriz que busca personalizar su vehículo pero se enfrenta a un mercado desorganizado, con presupuestos opacos y sin asesoramiento técnico confiable. VehiTunning se posiciona como una solución que centraliza la información, asesora al usuario y garantiza precios justos y procesos transparentes.
 
-**When**
+#### When
 **¿Cuándo sucede el problema?**
 El problema se presenta durante el proceso de personalización de un vehículo, al cotizar accesorios, realizar modificaciones estéticas o técnicas, o al elegir servicios especializados. La falta de referencias claras y profesionales capacitados expone a los consumidores a engaños frecuentes.
 
 **¿Cuándo utiliza el cliente el producto?**
 El cliente accede a VehiTunning antes, durante y después de la personalización de su vehículo: para explorar opciones, comparar precios, recibir asesoría experta, seleccionar proveedores verificados y monitorear el proceso en tiempo real.
 
-**Where**
+#### Where
 **¿Dónde está el cliente cuando utiliza el producto?**
 Los usuarios pueden utilizar VehiTunning desde sus hogares, talleres mecánicos o concesionarios, accediendo desde computadoras, smartphones o tablets.
 
 **¿Dónde surge el problema?**
 El problema se origina en talleres físicos, tiendas de accesorios y plataformas en línea que operan sin regulaciones claras ni controles de calidad, lo cual permite la existencia de estafas, sobreprecios y desinformación.
 
-**Who**
+#### Who
 **¿Quiénes están involucrados?**
 Clientes apasionados por los automóviles, técnicos mecánicos, proveedores de repuestos y servicios, talleres de modificación y plataformas digitales de venta.
 
@@ -152,11 +152,11 @@ A los consumidores interesados en modificar o mejorar sus vehículos, que frecue
 **¿Quién lo utiliza?**
 VehiTunning está diseñado para ser utilizado por clientes finales, pero también por talleres aliados que deseen integrarse a un ecosistema más ético y transparente, promoviendo la confianza y la profesionalización del rubro.
 
-**Why**
+#### Why
 **¿Cuál es la causa del problema?**
 La raíz del problema radica en la falta de regulación del mercado y en la escasa disponibilidad de herramientas confiables que permitan comparar opciones, verificar reputaciones o acceder a asesoría especializada. Esto propicia un entorno propenso al abuso y la desinformación.
 
-**How**
+#### How
 **¿En qué condiciones nuestros clientes usan el producto?**
 En contextos urbanos, de alto tráfico automotor, donde existe una fuerte cultura del tuning pero con acceso limitado a información confiable. Los usuarios recurren a VehiTunning cuando desean asegurar una experiencia personalizada, segura y transparente.
 
@@ -169,7 +169,7 @@ Mediante una app intuitiva y una plataforma web responsive que ofrezca comparado
 **¿Qué llevó a la persona a esa situación?**
 La necesidad de personalizar su vehículo sin caer en sobrecostos ni fraudes, buscando además una experiencia acompañada, confiable y eficiente.
 
-**How Much**
+#### How Much
 Según Peru21 (2023), el auge del comercio electrónico ha incrementado notablemente las estafas digitales. Se estima que el 4% de los afectados por fraudes online en el país ha perdido más de 5,000 soles, siendo el sector automotriz uno de los más golpeados. En Lima, numerosos consumidores han sido víctimas de sitios web falsos que ofrecen productos a precios atractivos, pero no entregan lo prometido. Estas prácticas minan la confianza del público y afectan gravemente la reputación del sector.
 
 ### 1.2.2 Lean UX Process
