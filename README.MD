@@ -249,6 +249,14 @@ Debe contar con un diseño intuitivo y atractivo, con una navegación sencilla q
 * **Herramientas de seguimiento:** Registro de modificaciones, progreso y análisis de tendencias para futuras decisiones de personalización.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
+**Creemos que** al ofrecer una plataforma centralizada e intuitiva para la gestión de la personalización vehicular, los usuarios podrán completar sus proyectos de forma más rápida y eficiente. <br>
+**Sabremos que lo logramos cuando** los usuarios compartan comentarios positivos, el tiempo promedio para completar tareas de personalización se reduzca en un 30%, y la tasa de abandono de proyectos disminuya en un 40%. <br>
+
+**Creemos que** al proporcionar información clara y detallada sobre las opciones disponibles, los usuarios podrán tomar decisiones mejor fundamentadas, alineadas con sus gustos y necesidades. <br>
+**Sabremos que lo logramos por** medio de testimonios que indiquen que la plataforma facilitó sus decisiones, un incremento del 35% en la satisfacción con las personalizaciones elegidas, y un aumento del 40% en la conversión de exploración a compra. <br>
+
+**Creemos que** al ofrecer una experiencia positiva y resolver eficazmente las necesidades del usuario, la plataforma ganará una mejor reputación y mayor credibilidad en el mercado. <br>
+**Sabremos que lo logramos mediante** comentarios de clientes potenciales que reflejen confianza en la plataforma, un aumento del 40% en la tasa de conversión de leads, y una mejora del 25% en la satisfacción general del cliente. <br>
 
 #### 1.2.2.4 Lean UX Canvas
 
