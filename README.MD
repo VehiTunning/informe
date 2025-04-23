@@ -193,6 +193,60 @@ La experiencia actual revela que los usuarios enfrentan dificultades para explor
 * **Visión/Strategy:** Desarrollar una plataforma intuitiva y accesible que acompañe al cliente en el proceso de personalización, facilitando la toma de decisiones informadas y fomentando una comunicación transparente entre cliente y técnico.
 
 #### 1.2.2.2 Lean UX Assumptions
+**Assumptions** <br>
+Los supuestos (assumptions) son fundamentales para identificar riesgos del proyecto y fomentar la participación activa del equipo mediante la expresión de ideas y perspectivas diversas.
+
+**User Assumptions** <br> 
+
+**¿Quién es el usuario?**
+Personas propietarias de vehículos interesadas en personalizar sus autos de forma segura, confiable y práctica.
+
+**¿Dónde encaja nuestro producto en su vida?**
+Nuestro producto se integra en su día a día, ofreciendo una solución accesible para personalizar vehículos sin riesgos de estafas, cumpliendo con sus expectativas y necesidades personales.
+
+**¿Qué problemas resuelve?**
+Elimina la falta de transparencia, reduce el riesgo de fraudes y simplifica el acceso a opciones de personalización confiables.
+
+**¿Cuándo y cómo lo usan?**
+Se utiliza cuando el usuario decide personalizar su auto, brindando una plataforma disponible en cualquier momento que facilite este proceso de manera segura y eficiente.
+
+**¿Cómo debe lucir y funcionar?**
+Debe contar con un diseño intuitivo y atractivo, con una navegación sencilla que guíe al usuario paso a paso. Además, debe ofrecer seguridad, confiabilidad y resultados satisfactorios.
+
+**Business Assumptions** <br>
+
+* Los usuarios necesitan una solución digital confiable y accesible que los proteja de estafas durante el proceso de personalización.
+* Una app móvil intuitiva, segura y con procesos claros puede satisfacer esta necesidad.
+* Nuestros clientes iniciales serán propietarios de vehículos que buscan un servicio seguro y sin complicaciones.
+* El principal valor para los clientes es la seguridad y confianza al personalizar sus vehículos.
+* Beneficios adicionales: variedad de opciones, asesoramiento profesional, precios transparentes y experiencia fluida.
+* La adquisición de usuarios se realizará a través de marketing digital dirigido y alianzas con concesionarios y talleres especializados.
+* El modelo de ingresos incluirá suscripciones, publicidad integrada y servicios premium. También se generarán ingresos mediante alianzas estratégicas con técnicos especializados.
+* La competencia incluye apps similares, talleres físicos y tiendas especializadas.
+* Nos destacaremos por nuestra atención a la seguridad, la transparencia, la diversidad de opciones y una experiencia de usuario superior.
+* El principal riesgo es la desconfianza en la plataforma.
+* Lo mitigamos mediante validaciones rigurosas de los técnicos, medidas de seguridad sólidas y una comunicación clara con los usuarios.
+
+**Business Outcomes** <br>  
+
+* **Mayor retención de clientes:** Una experiencia segura y eficiente impulsará la lealtad del usuario y la recurrencia.
+* **Reputación fortalecida:** Al cumplir las expectativas, mejoramos la imagen de marca y generamos mayor confianza en el mercado.
+* **Incremento en ingresos:** Más usuarios satisfechos conducen a un mayor volumen de transacciones.
+* **Mayor visibilidad:** Al ofrecer una solución efectiva y diferenciada, ganamos reconocimiento y captamos nuevos clientes.
+
+**User Outcomes** <br>
+
+* **Eficiencia mejorada:** Los usuarios personalizan sus vehículos más rápidamente, ahorrando tiempo y esfuerzo.
+* **Decisiones informadas:** Acceso claro a opciones y detalles técnicos permite elegir con mayor seguridad.
+* **Menor estrés:** La facilidad de uso reduce la frustración común en estos procesos.
+* **Satisfacción elevada:** Al obtener el resultado esperado, se eleva la satisfacción tanto personal como con el servicio.
+
+**Features** <br>
+
+* **Gestión centralizada de información:** Plataforma unificada para acceder a datos clave de personalización, mantenimiento y desempeño de partes.
+* **Paneles de control personalizables:** Visualización flexible de información adaptada a las preferencias del usuario.
+* **Opciones de personalización del sistema:** Ajustes según tipo de vehículo y preferencias personales.
+* **Herramientas de seguimiento:** Registro de modificaciones, progreso y análisis de tendencias para futuras decisiones de personalización.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
