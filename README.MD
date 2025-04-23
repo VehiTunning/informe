@@ -28,6 +28,82 @@
 </div>
 
 
+# **Registro de Versiones**
+
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Abril</td>
+      <td>
+        <ul>
+          <li>Luis Chinchihualpa</li>
+          <li>Franky Mallma</li>
+          <li>Britney Qqueso</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Software Configuration Managemen y Product Implementation & Deployment.</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
+
+# **Student Outcomes**
+<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
+  <thead>
+    <tr style="border-bottom: 1px solid black;">
+      <th style="border-right: 1px solid black;">Criterio Específico</th>
+      <th style="border-right: 1px solid black;">Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software</strong></td>
+      <td style="border-right: 1px solid black;"><p><strong>TB1</strong></p></td>
+      <td></td>
+     </tr>
+     <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>4.c.2 Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales</strong></td>
+      <td style="border-right: 1px solid black;"><p><strong>TB1</strong></p></td>
+      <td></td>
+     </tr>
+  </tbody>
+</table>
+
+# **Project Report Online**
+
+URL Project Report (Github): 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 4**Capítulo IV: Product UX/UI Design** 
