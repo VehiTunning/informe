@@ -260,6 +260,8 @@ Debe contar con un diseño intuitivo y atractivo, con una navegación sencilla q
 
 #### 1.2.2.4 Lean UX Canvas
 
+![Lean UX Canvas](assets/CAP1/Lean-UX-Canvas-VehiTunning.png)
+
 ## 1.3 Segmentos objetivo
 **Segmento #1: Clientes que desean personalizar sus vehículos** <br>
 Este segmento está compuesto por personas interesadas en mejorar y personalizar sus autos como una forma de expresión personal, estilo de vida y diferenciación. Buscan opciones innovadoras, asesoramiento especializado y experiencias que les permitan destacar con originalidad.
