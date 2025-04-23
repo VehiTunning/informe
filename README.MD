@@ -104,10 +104,10 @@ VisionTech es una startup creada por estudiantes de la Facultad de Ingeniería d
 
 A través de nuestra plataforma VehiTunning, ofrecemos un ecosistema digital completo que conecta a usuarios con proveedores certificados, facilitando decisiones informadas mediante cotizaciones automatizadas, comparativas inteligentes y asesoramiento especializado. Contamos con un equipo apasionado por la innovación tecnológica y la ingeniería de calidad, que trabaja incansablemente para garantizar una experiencia de personalización única, accesible y completamente centrada en las expectativas de cada usuario.
 
-**Misión:**
+**Misión:** <br>
 Facilitar la personalización automotriz a través de una plataforma digital accesible, inteligente y transparente, que brinde a los usuarios atención personalizada, precios justos y asesoramiento técnico especializado.
 
-**Visión:**
+**Visión:** <br>
 Convertirnos en referentes globales en innovación para la personalización automotriz, siendo reconocidos por nuestra transparencia, calidad técnica y compromiso con una experiencia de usuario extraordinaria que combine tecnología de vanguardia y atención personalizada.
 
 ### 1.1.2 Perfiles de integrantes del equipo
@@ -122,51 +122,51 @@ Convertirnos en referentes globales en innovación para la personalización auto
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### What
-**¿Cuál es el problema?**
+**¿Cuál es el problema?** <br>
 En la actualidad, el sector de personalización automotriz enfrenta una falta alarmante de transparencia y un auge de prácticas poco éticas por parte de talleres y vendedores de accesorios. Esta situación genera desinformación entre los entusiastas del tuning, quienes no cuentan con el conocimiento necesario para diferenciar entre servicios auténticos y engañosos. Como resultado, muchos terminan tomando decisiones equivocadas, adquiriendo productos de baja calidad o pagando precios injustificados.
 
-**¿Cuál es la relación con la persona en cuestión?**
+**¿Cuál es la relación con la persona en cuestión?** <br>
 El usuario final es un entusiasta automotriz que busca personalizar su vehículo pero se enfrenta a un mercado desorganizado, con presupuestos opacos y sin asesoramiento técnico confiable. VehiTunning se posiciona como una solución que centraliza la información, asesora al usuario y garantiza precios justos y procesos transparentes.
 
 #### When
-**¿Cuándo sucede el problema?**
+**¿Cuándo sucede el problema?** <br>
 El problema se presenta durante el proceso de personalización de un vehículo, al cotizar accesorios, realizar modificaciones estéticas o técnicas, o al elegir servicios especializados. La falta de referencias claras y profesionales capacitados expone a los consumidores a engaños frecuentes.
 
-**¿Cuándo utiliza el cliente el producto?**
+**¿Cuándo utiliza el cliente el producto?** <br>
 El cliente accede a VehiTunning antes, durante y después de la personalización de su vehículo: para explorar opciones, comparar precios, recibir asesoría experta, seleccionar proveedores verificados y monitorear el proceso en tiempo real.
 
 #### Where
-**¿Dónde está el cliente cuando utiliza el producto?**
+**¿Dónde está el cliente cuando utiliza el producto?** <br>
 Los usuarios pueden utilizar VehiTunning desde sus hogares, talleres mecánicos o concesionarios, accediendo desde computadoras, smartphones o tablets.
 
-**¿Dónde surge el problema?**
+**¿Dónde surge el problema?** <br>
 El problema se origina en talleres físicos, tiendas de accesorios y plataformas en línea que operan sin regulaciones claras ni controles de calidad, lo cual permite la existencia de estafas, sobreprecios y desinformación.
 
 #### Who
-**¿Quiénes están involucrados?**
+**¿Quiénes están involucrados?** <br>
 Clientes apasionados por los automóviles, técnicos mecánicos, proveedores de repuestos y servicios, talleres de modificación y plataformas digitales de venta.
 
-**¿A quiénes les sucede el problema?**
+**¿A quiénes les sucede el problema?** <br>
 A los consumidores interesados en modificar o mejorar sus vehículos, que frecuentemente son víctimas de presupuestos inflados, componentes de dudosa procedencia o instalaciones deficientes.
 
-**¿Quién lo utiliza?**
+**¿Quién lo utiliza?** <br>
 VehiTunning está diseñado para ser utilizado por clientes finales, pero también por talleres aliados que deseen integrarse a un ecosistema más ético y transparente, promoviendo la confianza y la profesionalización del rubro.
 
 #### Why
-**¿Cuál es la causa del problema?**
+**¿Cuál es la causa del problema?** <br>
 La raíz del problema radica en la falta de regulación del mercado y en la escasa disponibilidad de herramientas confiables que permitan comparar opciones, verificar reputaciones o acceder a asesoría especializada. Esto propicia un entorno propenso al abuso y la desinformación.
 
 #### How
-**¿En qué condiciones nuestros clientes usan el producto?**
+**¿En qué condiciones nuestros clientes usan el producto?** <br>
 En contextos urbanos, de alto tráfico automotor, donde existe una fuerte cultura del tuning pero con acceso limitado a información confiable. Los usuarios recurren a VehiTunning cuando desean asegurar una experiencia personalizada, segura y transparente.
 
-**¿Cómo nos conocieron nuestros compradores?**
+**¿Cómo nos conocieron nuestros compradores?** <br>
 A través de redes sociales, foros automotrices, alianzas con talleres certificados, recomendaciones entre usuarios y eventos de cultura tuning.
 
-**Cómo prefieren nuestros consumidores acceder a nuestro producto?**
+**Cómo prefieren nuestros consumidores acceder a nuestro producto?** <br>
 Mediante una app intuitiva y una plataforma web responsive que ofrezca comparadores de precios, asistencia virtual personalizada y un sistema de calificaciones comunitarias.
 
-**¿Qué llevó a la persona a esa situación?**
+**¿Qué llevó a la persona a esa situación?** <br>
 La necesidad de personalizar su vehículo sin caer en sobrecostos ni fraudes, buscando además una experiencia acompañada, confiable y eficiente.
 
 #### How Much
