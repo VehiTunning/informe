@@ -421,6 +421,43 @@ En relación con nuestra aplicación, también hemos implementado botones de acc
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.014.png)
 
 ### 4.2.3 SEO Tags and Meta Tags
+**Landing Page:** 
+
+ <meta charset= UTF-8 >  
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+
+<meta name= "viewport" content="width=device-width, initial-scale=1.0"> 
+
+<meta name="agriculture" content="index, follow"> 
+
+<link rel="shortcut icon" href="\*./images/favicon.png" type="image/x-icon"/> 
+
+<title>CarTunn</title> 
+
+<meta name="keywords" content="cartunn, tunning, mechanical staff, report, Customization, orders, automotive customization , software, accessories, customization services"> 
+
+<meta name="description" content="Start now customizing your car now, There are already dozens of car lovers who have trusted us, you be one more"> 
+
+**Web Application:** 
+
+<meta charset= UTF-8 > 
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+
+<meta name= "viewport" content="width=device-width, initial-scale=1.0"> 
+
+<meta name="customization" content="index, follow"> 
+
+<link rel="shortcut icon" href="\*./images/favicon.png" type="image/x-icon"/> 
+
+<title>CarTunn</title> 
+
+<meta name="keywords" content="CarTunn,CarTunn Log In, CarTunn Sing Up, CarTunn app, CarTunn register, customization software,"> 
+
+<meta name="description" content="CarTunn Log In.Start now customizing your car now.Collaborative platform between mechanical staff and clients who want to customize their cars."> 
+
+
 ### 4.2.4 Searching Systems
 En lo que respecta a los sistemas de búsqueda en nuestra aplicación, se implementará un sistema de filtros en los registros de entradas por fecha, lo que permitirá a los usuarios buscar y visualizar información según fechas específicas.
 
