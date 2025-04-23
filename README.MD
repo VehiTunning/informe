@@ -2,9 +2,9 @@
 
 
 
-1. **Capítulo IV: Product UX/UI Design** 
-   1. **Style Guidelines**
-    1. **General Style Guidelines**
+4**Capítulo IV: Product UX/UI Design** 
+   4.1. **Style Guidelines**
+4.1.1. **General Style Guidelines**
 
 **Branding:** 
 
@@ -48,7 +48,7 @@ Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros opt
 
 
 
-2. **Web Style Guidelines.**
+4.1.2**Web Style Guidelines.**
 
    **Enlace del figma: <https://www.figma.com/file/3puKCQI9HpY36ICGlYihgc/CarTunn-vFinal?type=design&node-id=224%3A2416&mode=design&t=w8OvXgMIblMERzsm-1>** 
 
@@ -77,14 +77,14 @@ Y finalmente se puede ver un article en la sección de pricing pues al trabajar 
 
 
 
-3. **Mobile Style Guidelines.**
+4.1.3**Mobile Style Guidelines.**
 
    Importante: la web está diseñada a su vez para ser responsive, con plena compatibilidad con Android y IOS.
 
-1. **iOS Mobile Style Guidelines.**
+4.1.1.1**iOS Mobile Style Guidelines.**
 
 En el diseño del mockup para dispositivos móviles IOS la diferencia principal yace en el margin bottom que se tuvo que dejar para respetar el safe area característico de este tipo de dispositivos![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.010.png)
-2. **Android Mobile Style Guidelines.**
+4.1.1.2**Android Mobile Style Guidelines.**
 
 En cuanto para dispositivos android este safe área es inexistente por lo que solo el diseño debe de respetar los principios grid y flexbox para el diseño responsive de la web. 
 
@@ -92,8 +92,8 @@ En cuanto para dispositivos android este safe área es inexistente por lo que so
 ![A screen shot of a cell phone
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.011.png)
 
-2. **Information Architecture.**
-    1. **Organization Systems.** 
+4.2.**Information Architecture.**
+4.2.2. **Organization Systems.** 
 
 En lo que concierne a la organización visual del contenido de nuestro proyecto, se aplicará el patrón visual hierarchy para organizar la información en las distintas secciones de la aplicación. Esto significa que la relevancia de las oraciones será determinada por el tamaño de la fuente, donde aquellas de mayor importancia se mostrarán con un tamaño de fuente de 48px (equivalente a 3rem), mientras que otras se presentarán con tamaños de fuente más pequeños. Además, se utilizará un formato de organización matricial ordenada para exhibir las características del producto, asegurando una presentación estructurada y fácil de seguir.
 
@@ -102,7 +102,7 @@ En cuanto a los métodos de categorización del contenido, se empleará la categ
 
 
 
-2. **Labeling Systems.**
+4.2.3**Labeling Systems.**
 
 En el landing page, hemos optado por reducir el uso de iconos representativos en los enlaces y, en su lugar, dar prioridad al texto con botones destacados. Esto nos permite mantener la estética minimalista del landing page. Además, hemos incluido iconos de colores para identificar nuestras redes sociales y otros elementos.
 
@@ -116,7 +116,7 @@ En relación con nuestra aplicación, también hemos implementado botones de acc
 ![A screenshot of a phone
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.014.png)
 
-3. **SEO Tags and Meta Tags.** 
+4.2.4**SEO Tags and Meta Tags.** 
 
 **Landing Page:** 
 
@@ -158,7 +158,7 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 
 
-4. **Searching Systems.** 
+4.2.5. **Searching Systems.** 
 
 En lo que respecta a los sistemas de búsqueda en nuestra aplicación, se implementará un sistema de filtros en los registros de entradas por fecha, lo que permitirá a los usuarios buscar y visualizar información según fechas específicas.
 
@@ -172,7 +172,7 @@ Además, se utilizarán filtros por pestañas en las siguientes ocasiones:
 
 ![](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.015.png)
 
-5. **Navigation Systems.**
+4.2.6**Navigation Systems.**
 
    La estructura de navegación de nuestra aplicación se fundamentará en un componente de interfaz de usuario ampliamente utilizado: el sidebar. Este sidebar contendrá todas las opciones disponibles en la aplicación, organizadas de manera jerárquica. Es importante destacar que el contenido del sidebar variará según el tipo de usuario que acceda a la aplicación.
 
@@ -181,40 +181,26 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 
 
-3. **Landing Page UI Design.** 
+4.3**Landing Page UI Design.** 
 
 En esta sección, presentamos nuestra propuesta de diseño de interfaz de usuario (UI) para el Landing Page. Explicamos cómo traducimos nuestras decisiones de diseño y arquitectura de información en una experiencia visualmente atractiva y funcional. El Landing Page es la primera impresión de nuestro sitio web, por lo que es crucial que refleje nuestra marca, comunique claramente nuestros mensajes clave y guíe a los usuarios hacia las acciones deseadas. Destacaremos los principios de diseño y consideraciones estratégicas que hemos utilizado para crear una experiencia de usuario efectiva y memorable.
 
 
 
 
-1. **Landing Page Wireframe.** 
+4.3.1**Landing Page Wireframe.** 
 
 **Enlace del figma web:** 
 
 [**https://www.figma.com/file/mTtYszxtJt7r9ctlNzccEK/Wireframe-Landingpage?type=design&node-id=0%3A1&mode=design&t=SDb42Y1oTtVkd5Go-1](https://www.figma.com/file/mTtYszxtJt7r9ctlNzccEK/Wireframe-Landingpage?type=design&node-id=0%3A1&mode=design&t=SDb42Y1oTtVkd5Go-1)** 
 
-A continuación diseñamos el cómo sería el wireframe de nuestra landing page usando Figma
-
-![A white envelope with papers on it
-
-AI-generated content may be incorrect.]
-
-![A white envelope with papers on it
-
-AI-generated content may be incorrect.]
-
 **Enlace del figma móvil:**
 
 [**https://www.figma.com/file/Ra8FhHb46JMhkNThyLmwbU/Mobile-wireframe?type=design&node-id=0%3A1&mode=design&t=4IPCw13uV4ZLjkE0-1](https://www.figma.com/file/Ra8FhHb46JMhkNThyLmwbU/Mobile-wireframe?type=design&node-id=0%3A1&mode=design&t=4IPCw13uV4ZLjkE0-1)** 
 
-![A screenshot of a computer
 
-AI-generated content may be incorrect.]
 
-![ref1]
-
-2. **Landing Page Mock-up.**
+4.3.2**Landing Page Mock-up.**
 
    **Enlace del figma: <https://www.figma.com/file/3puKCQI9HpY36ICGlYihgc/CarTunn-vFinal?type=design&node-id=224%3A2416&mode=design&t=wOoV1LZs3RIcch1q-1>** 
 
@@ -225,8 +211,8 @@ AI-generated content may be incorrect.]
 
 
 
-4. **Mobile Applications UX/UI Design.** 
-   1. **Mobile Applications Wireframes**
+4.4 **Mobile Applications UX/UI Design.** 
+4.4.1**Mobile Applications Wireframes**
 
 **Enlace de figma: <https://www.figma.com/design/9hoP2hiYV16lw0JxAVU4jb/Cartunn-Mobile-App-(Copy)?node-id=2036-4012&t=wN1wYS9ZHvzo8Klc-1>** 
 
@@ -314,7 +300,7 @@ Deslogear (cerrar sesion)
 
 
 
-2. **Mobile Applications Wireflow Diagrams**
+4.4.2. **Mobile Applications Wireflow Diagrams**
 
    User goal : inicio de sesion
 
@@ -375,7 +361,7 @@ User goal: cierre de sesion
 
 
 
-3. **Mobile Applications Mock-ups**
+4.4.3. **Mobile Applications Mock-ups**
 
    Enlace figma: <https://www.figma.com/design/9hoP2hiYV16lw0JxAVU4jb/Cartunn-Mobile-App-(Copy)?node-id=0-1&t=wN1wYS9ZHvzo8Klc-1> 
 
@@ -457,7 +443,7 @@ Log-out (cerrar sesión)
 
 
 
-4. **Mobile Applications User Flow Diagrams**
+4.4.4 **Mobile Applications User Flow Diagrams**
 
    User goal : inicio de sesión
 
@@ -526,8 +512,8 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 
 
-5. **Mobile Applications Prototyping**
-    1. **Android Mobile Applications Prototyping**
+4.5. **Mobile Applications Prototyping**
+    4.5.1. **Android Mobile Applications Prototyping**
 
 Para el desarrollo de esta sección de nuestro proyecto fue necesario usar la herramienta Prototype by Figma en la que pudimos realizar una simulación de como estaría construida nuestra aplicación.
 
@@ -536,15 +522,15 @@ Para el desarrollo de esta sección de nuestro proyecto fue necesario usar la he
 
 [**upc-pre-202402-cc238-sw65-raidDev-prototyping.mp4**](https://1drv.ms/v/c/5b65fa3a62cd5975/ESjTTZfRMFZKh0nZv49CLYwB5oPoyt1KobtQZU2koInDMA?e=Yv3udb)
 
-2. **IOS Mobile Applications Prototyping**
+4.5.2. **IOS Mobile Applications Prototyping**
 
    **Enlace del video:**
 
 
 [**upc-pre-202402-cc238-sw65-raidDev-prototyping.mp4**](https://1drv.ms/v/c/5b65fa3a62cd5975/ESjTTZfRMFZKh0nZv49CLYwB5oPoyt1KobtQZU2koInDMA?e=Yv3udb)
 
-6. **Web Applications UX/UI Design.** 
-   1. **Web Applications Wireframes.**
+4.6. **Web Applications UX/UI Design.** 
+   4.6.1. **Web Applications Wireframes.**
                                         User goal: El usuario se registra, restablece su contraseña o inicia sesión en la aplicación
 
    Inicio de sesión
@@ -645,7 +631,7 @@ Notificar a los proveedores
 
 
 
-2. **Web Applications Wireflow Diagrams.** 
+4.6.2. **Web Applications Wireflow Diagrams.** 
 
    **User goal: usuario se registra ,cambia contraseña o inicia sesión en la aplicación con credenciales**
 
@@ -707,7 +693,7 @@ User goal: Reembolsos
 
 
 
-3. **Web Applications Mock Ups**
+4.6.3. **Web Applications Mock Ups**
 
    User goal: El usuario se registra, restablece su contraseña o inicia sesión en la aplicación
 
@@ -818,7 +804,7 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 
 
-4. **Web Applications User Flow Diagrams**
+4.6.4 **Web Applications User Flow Diagrams**
 
    ` `**User goal: El usuario se registra, restablece su contraseña o inicia sesión en la aplicación**
 
@@ -886,31 +872,31 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 
 
-7. **Web Applications Prototyping**
+4.7. **Web Applications Prototyping**
 
    ![A screenshot of a computer
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.132.png)
 
 **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218475_upc_edu_pe/EYGlhhSe3SRMpcAYXnC-JjMB_sHeALjhl19QUBri7tNWkQ?e=Zolbor&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>** 
 
-8. **Domain-Driven Software Architecture.**
-    1. **Software Architecture Context Diagram.**
+4.8**Domain-Driven Software Architecture.**
+    4.8.1. **Software Architecture Context Diagram.**
 
 ![A diagram of a company
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.133.jpeg)
 
-2. **Software Architecture Container s.**
+4.8.2. **Software Architecture Container s.**
 
    ![A diagram of a company
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.134.png)
 
-3. **Software Architecture Components Diagrams.**
+4.8.3. **Software Architecture Components Diagrams.**
 
    ![A diagram of a company
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.135.png)
 
-9. **Software Object-Oriented Design**
-    1. **Class Diagrams.**
+4.9. **Software Object-Oriented Design**
+    4.9.1. **Class Diagrams.**
 
 **Enlace:<https://lucid.app/lucidchart/55f20bcf-91d1-4928-801a-d53797c9fc39/edit?viewport_loc=-4412%2C-608%2C4258%2C1591%2C0_0&invitationId=inv_a31265b7-905c-470d-885d-17abae1c4fcc>** 
 
@@ -938,7 +924,7 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 ![A diagram of a function
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.140.png)
 
-2. **Class Dictionary**
+4.9.2. **Class Dictionary**
 
    A continuación, se detallan exhaustivamente las clases más relevantes junto con sus atributos y métodos correspondientes en el contexto del sistema de gestión agrícola. Estas clases forman la estructura fundamental del sistema, permitiendo un seguimiento integral de los procesos agrícolas y la gestión de los recursos agrícolas.
 
@@ -1028,9 +1014,9 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 
 
-10. **Database Design.** 
+4.10. **Database Design.** 
 
-**4.8.1. Database Diagram.**
+**4.10.1. Database Diagram.**
 
 ![A diagram of a computer
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.141.png)
