@@ -261,6 +261,45 @@ Debe contar con un diseño intuitivo y atractivo, con una navegación sencilla q
 #### 1.2.2.4 Lean UX Canvas
 
 ## 1.3 Segmentos objetivo
+**Segmento #1: Clientes que desean personalizar sus vehículos** <br>
+Este segmento está compuesto por personas interesadas en mejorar y personalizar sus autos como una forma de expresión personal, estilo de vida y diferenciación. Buscan opciones innovadoras, asesoramiento especializado y experiencias que les permitan destacar con originalidad.
+
+**Aspectos demográficos:** <br>
+  * **Sexo:** Masculino y femenino
+  * **Edades:** Entre 18 y 50 años
+  * **Nivel socioeconómico:**
+    *Profesionales con altos ingresos y empresarios
+    *Ejecutivos, gerentes y profesionales con ingresos medio-altos
+    *Jóvenes profesionales, emprendedores y trabajadores con ingresos medios
+
+**Aspectos geográficos:** <br>
+  * **Nacionalidad:** Peruana
+  * **Ubicación:** Principalmente en zonas urbanas y suburbanas de Perú, como Lima Metropolitana, Arequipa, Trujillo, entre otras
+
+**Aspectos psicográficos:**
+  * **Motivaciones:** Expresar su personalidad a través del diseño del vehículo, destacar en su entorno social, disfrutar del proceso creativo y del asesoramiento experto
+  * **Intereses:** Tecnología automotriz, diseño, estética, tendencias de customización, experiencias diferenciadas
+  * **Comportamiento:** Buscan plataformas que simplifiquen el proceso de personalización, comparan alternativas, valoran la calidad, la innovación y la atención personalizada
+
+**Segmento #2: Personal técnico y staff mecánico** <br>
+Este segmento está conformado por técnicos automotrices, mecánicos e ingenieros que forman parte del ecosistema de personalización. Su rol es clave en la implementación de mejoras en los vehículos y están en constante búsqueda de herramientas, técnicas y conocimientos para optimizar su trabajo.
+
+**Aspectos demográficos:**
+  * **Sexo:** Mayoritariamente masculino, con creciente participación femenina
+  * **Edades: Entre 20 y 60 años
+  * **Nivel socioeconómico:
+    *Ingenieros automotrices, técnicos especializados
+    *Mecánicos con trayectoria y formación técnica sólida
+    *Ayudantes de taller, aprendices
+
+**Aspectos geográficos:**
+  * **Nacionalidad:** Peruana
+  * **Ubicación:** Zonas urbanas y suburbanas con alta densidad de talleres, como Lima, Callao, Arequipa, etc.
+
+**Aspectos psicográficos:**
+  * **Motivaciones:** Mejorar sus habilidades, brindar un mejor servicio, adaptarse a nuevas tecnologías, ser reconocidos por su experiencia
+  * **Intereses:** Mecánica automotriz, herramientas digitales, actualización constante, aprendizaje técnico
+  * **Comportamiento:** Participan en capacitaciones, valoran plataformas que faciliten su trabajo, buscan soluciones eficientes y colaborativas
 
 # Capítulo II: Requirements Elicitation & Analysis
 
