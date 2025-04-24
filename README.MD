@@ -1731,28 +1731,491 @@ AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4
 
 [**https://my.vertabelo.com/public-model-view/YaEZlcHTCtQjs1gwfSjY6bwzibMdosX2Q0IJE3iK3RiGEP1Oebzkz143pRiTaUBz?x=1347&y=2534&zoom=0.3632](https://my.vertabelo.com/public-model-view/YaEZlcHTCtQjs1gwfSjY6bwzibMdosX2Q0IJE3iK3RiGEP1Oebzkz143pRiTaUBz?x=1347&y=2534&zoom=0.3632)** 
 
-# Capítulo V: Product Implementation, Validation & Deployment
+5**Capítulo V: Product Implementation**
+    5.1. **Software Configuration Management.**
+        5.1.1. **Software Development Environment Configuration**
 
-## 5.1 Software Configuration Management
-### 5.1.1 Software Development Environment Configuration
-### 5.1.2 Source Code Management
-### 5.1.3 Source Code Style Guide & Conventions
-### 5.1.4 Software Deployment Configuration
+A continuación, describiremos los productos de software que hemos empleado durante el desarrollo del proyecto.
 
-## 5.2 Landing Page, Services & Applications Implementation
-### 5.2.1 Sprint 1
-#### 5.2.1.1 Sprint Planning 1
-#### 5.2.1.2 Sprint Backlog 1
-#### 5.2.1.3 Development Evidence for Sprint Review
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review
-#### 5.2.1.5 Execution Evidence for Sprint Review
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
-#### 5.2.1.7 Software Deployment Evidence for Sprint Review
-#### 5.2.1.8 Team Collaboration Insights during Sprint
+**Project Management**
 
-# Conclusiones
-## Conclusiones y recomendaciones
-## Video About-the-Team
-# Bibliografía
-# Anexos
+
+
+
+- Trello: <https://trello.com/>
+
+La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Presentándose las tareas dentro de las tarjetas en listas con el integrante encargado de realizarlas. Además, utilizamos las funcionalidades como agregar las etiquetas de colores y marcar el proceso de las tareas. De esta manera pudimos hacer seguimiento a nuestros avances en el proyecto.
+
+- Notion: <https://www.notion.so/>  
+
+La plataforma de Notion fue utilizada para la colaboración de los integrantes con el proyecto. Se crearon calendarios y listas con las fechas de las reuniones del equipo. Además, se hizo uso de herramientas como comentarios y menciones para fomentar el trabajo y colaboración en equipo.
+
+**Requirements Management**
+
+- Trello: <https://trello.com/> 
+
+Empleamos Trello para organizar los requisitos de la aplicación. En el que tenemos al product backlog el cual ordenamos según la prioridad aplicando Fibonacci para enumerar las historias de usuario y en otra sección organizándolas según las épicas.
+
+**Product UX/UI Design**
+
+- Figma: <https://www.figma.com/> 
+
+La plataforma de Figma nos ayudó a desarrollar los wireframes, mockups y prototyping del mobile applications.
+
+- Miro: <https://miro.com/es/> 
+
+Miro nos fue de utilidad para poder realizar los As-Is Scenario Mapping y  To-Be Scenraio Mapping para cada uno de los segmentos objetivos.
+
+- UXPressia: <https://uxpressia.com/> 
+
+La plataforma UXPressia se empleó para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps. Hemos hecho uso de las plantillas que UXPressia nos ofrece para elaborar cada una de ellas. Nos permitió exportar lo que se realizó para incluirlo en el trabajo.
+
+**Software Development**
+
+
+
+
+- Landing Page
+
+Para el desarrollo de la landing page se hará empleó de HTML5, CSS y JavaScript.
+
+- Frontend Web Application
+
+Para desarrollar la aplicación web frontend, es esencial tener una comprensión sólida de los fundamentos de HTML, CSS y JavaScript. En nuestro caso, optamos por utilizar Angular como framework de JavaScript. Además, para facilitar la creación de componentes reutilizables y accesibles, decidimos emplear PrimeNG como biblioteca de componentes UI. Nuestro stack tecnológico incluye el uso del lenguaje Java con el framework Spring Boot, junto con HTML, Angular, JavaScript, CSS y una base de datos MySQL.
+
+**Software Testing**
+
+Para las pruebas funcionales del software, tanto como de la Landing page y de la aplicación web, hemos utilizado las herramientas de desarrollo de los navegadores web siguientes: Google Chrome (<https://www.google.com/chrome/>), Microsoft Edge (<https://www.microsoft.com/en-us/edge>) y Mozilla Firefox (<https://www.mozilla.org/en-US/firefox/browsers/>).
+
+**Software Deployment**
+
+- Netlify: <https://www.netlify.com/> 
+
+Para implementar el despliegue de la Landing Page, se llevó a cabo la conexión entre el repositorio de Github y Netlify. Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
+
+**Software Documentation**
+
+- Google Drive: <https://www.google.com/intl/es-419_pe/drive/> 
+
+Esta plataforma fue empleada para crear documentos mediante Google Docs, el cual nos permite trabajar de manera colaborativa los informes de las entregas.
+
+- Structurizr: <https://structurizr.com/> 
+
+Herramienta utilizada para la creación de diagramas C4 (diagrama de contexto, diagrama de contenedor y diagrama de componentes). Para elaborar los diagramas fue necesario utilizar una sintaxis parecida a un lenguaje de programación.
+
+- GitHub: <https://github.com/> 
+
+Plataforma empleada tanto como para la creación de la documentación y de la Landing page. Nuestro eligió esta plataforma debido a que nos permite trabajar de manera colaborativa. 
+
+5.1.2. **Source Code Management**
+La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
+
+Organización: <https://github.com/upc-pre-202401-si729-sw51-the-coders> 
+
+   Repositorio de la Landing page: <https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre-202401-si729-sw51-the-coders-landing-page> 
+
+   Además, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se procedió a utilizar Gitflow.
+
+De esta forma, se establecieron 2 ramas principales: main y develop.
+
+**Ramas principales:**
+
+Rama “main”: En esta rama se almacenan las versiones oficiales de nuestro repositorio para pasarlas a producción.
+
+Rama “develop”: Esta rama se utilizará como punto de integración para las ramas de “feature”. Una vez que el  “head” sea estable y el equipo lo considere listo para el lanzamiento, se fusionará con la rama “release”.
+
+**Ramas auxiliares:**
+
+Rama “release”: La rama “release” se emplea para la preparación del lanzamiento de una nueva versión en la rama “main” ayudando a controlar las versiones de código. Aquí se pueden solucionar errores menores y preparar los datos para la versión. Esta rama permitirá liberar a la rama “develop” de estas tareas preparatorias y evita demoras en el desarrollo mientras se prepara para el lanzamiento. 
+
+   Rama “feature”: En las ramas “feature” se desarrollan las características generales que se integrarán en la rama “develop”. Estas características son aquellas funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama feature/navbar.
+
+Rama “hotfix”: Esta rama se utiliza para corregir urgentemente errores en la última versión de la rama “main” que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
+
+
+
+
+
+5.1.3. **Source Code Style Guide & Conventions**
+
+   `        `Utilizaremos el lenguaje de etiquetas HTML para el desarrollo principal de nuestra Landing page.
+
+   ●        Utilizaremos el lenguaje CSS, que nos permitirá realizar los estilos de la estructura de nuestra Landing Page
+
+   ●        Implementaremos el lenguaje de JavaScript para brindar las funcionalidades a nuestra Landing page. 
+
+   ●        Utilizaremos el lenguaje Gherkin que se usará para realizar los diseños de prueba de cada historia de usuario, contando con su estructura básica. 
+
+   **Convenciones de Commits:**
+
+   Nuestro equipo de desarrollo sigue las Convenciones de Commits, adoptando el formato de los “Conventional Commits” en su versión 1.0.0 (disponible en <https://www.conventionalcommits.org/en/v1.0.0/>) para garantizar una fácil comprensión de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:
+
+   **Donde:**
+
+
+
+
+- type: Indica el tipo de modificación realizada, limitado a opciones como feat, fix, docs, etc.
+- scope: Define el alcance del cambio realizado en nuestro código.
+- descripción: Ofrece un resumen conciso de los cambios implementados.
+
+**Convenciones de versionado de lanzamientos**
+
+Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.0”. En este formato las versiones se presentan como (X.Y.Z), con las siguientes interpretaciones: 
+
+- X: Indica una versión principal que incorpora cambios incompatibles con versiones anteriores. Iniciamos en 0 durante la etapa de desarrollo inicial y transicionamos a 1 cuando la versión esté lista para su lanzamiento público. Por convención, Y y Z se reinician a 0 cuando X aumenta.
+- Y: Representa una versión secundaria, que abarca cambios compatibles con versiones anteriores. Además, esta incluye los commits provenientes de las “release branches” cada vez que se agregan nuevas funcionalidades. Convencionalmente, Z se reinicia a 0 cuando Y aumenta.
+- Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
+5.1.4. **Software Deployment Configuration.**
+
+   Entrar a Netlify y presionar la opción de “Import an existing project”
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.001.png)
+
+   Después seleccionar la opcion de “Deploy con github”
+
+   ![A screenshot of a computer
+AI-generated content may be incorrect.](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.002.png)
+
+Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
+
+Para finalmente agregar la data necesaria para el despliegue
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.003.png)
+
+Y final solo presionar el botón con el nombre de proyecto a desplegar
+
+![A blue rectangle with black numbers
+AI-generated content may be incorrect.](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.004.png)
+
+-       Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://upc-pre-202401-si729-sw51-cartunn.netlify.app**](https://upc-pre-202401-si729-sw51-cartunn.netlify.app)
+
+5.2. **Product Implementation & Deployment**
+    5.2.1. **Sprint Backlogs**
+
+**Sprint Backlog 1:**
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: <https://trello.com/b/BaYjwdz9/sprint-backlog-1-cartunn> 
+
+Vista del Sprint Backlog en Trello
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.005.png)
+
+|**Sprint #**|**Sprint 1**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+|E1-US01|Barra de navegación en la landing page|T1|Navbar section|<p>Implementar navbar</p><p>con botón (redirige a la aplicación) y responsive design, </p>|1h|David Soto|Done|
+|E1-US02|Dirigirse a la aplicación mediante el landing page|T2|Button Call to Action|<p></p><p>Implementar el button Call to Action del navbar</p>|0\.1h|David Soto|Done|
+|E1-US03|Sección hero del landing page|T3|Navbar section responsive|Aplicar diseño responsive a las opciones del navbar|1h|David Soto|Done|
+|E1-US03|Sección hero del landing page|T4|hero section|Implementar un hero seccion|1h|Abraham Ayquipa|Done|
+|E1-US03|Sección hero del landing page|T5|<p>responsive</p><p>design</p><p>hero</p><p>section</p>|aplicar design responsive al hero section|x|Abraham Ayquipa|Done|
+|E1-US03|Sección hero del landing page|T6|<p>Product section</p><p>and items</p>|Implementar Product section y los ítems característicos en orden grid|1h|Franky Mallma|Done|
+|E1-US03|Sección hero del landing page|T7|<p>responsive</p><p>design</p><p>Product section</p><p></p>|Implementar design responsive a Product section|1h|Franky Mallma|Done|
+|E1-US03|Sección hero del landing page|T8|<p>Customers section</p><p>and items</p>|Implementar Customers section y los ítems característicos en orden grid y aplicar animaciones|1\.5h|David Soto|Done|
+|E1-US03|Sección hero del landing page|T9|<p>responsive</p><p>design</p><p>Customers section</p><p></p>|Implementar diseño responsive a Costumers section|1h|David Soto|Done|
+|E1-US03|Sección hero del landing page|T10|Pricing section|Implementar Pricing section y los ítems característicos en orden grid |1h|Alexandra Ramos|Done|
+|E1-US03|Sección hero del landing page|T11|<p>responsive</p><p>design</p><p>Pricing section</p><p></p>|Implementar diseño responsive a Pricing section|1h|Alexandra Ramos|Done|
+|E1-US03|Sección hero del landing page|T12|Contact section|Implementar Contact section y los ítems característicos en orden grid |1h|Mariana Chambi|Done|
+|E1-US03|Sección hero del landing page|T13|<p>responsive</p><p>design</p><p>Contact section</p><p></p>|Implementar diseño responsive a Contact section|1h|Mariana Chambi|Done|
+|E1-US03|Sección hero del landing page|T14|footer section|Implementar footer section|1h|Abraham Ayquipa|Done|
+|E1-US03|Sección hero del landing page|T15|Social media section|implementar icons para las redes sociales y tambien links|0\.5h|Abraham Ayquipa|Done|
+|E1-US03|Sección hero del landing page|T16|<p>Responsive</p><p>design</p><p>footer section</p><p></p>|Aplicar diseño responsive|1h|Mariana Chambi|Done|
+|E1-US04|Versión en español de landing page|T17|Switch que activa I18n|Button de tipo switch que permite cambiar de idioma  a la landing|0\.5h|Alexandra Ramos|Done|
+
+**Sprint backlog 2:**
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: <https://trello.com/b/AxO4wcPY/sprint-backlog-2-cartunn> 
+
+Vista del Sprint Backlog 2 en Trello
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.006.png)
+
+|**Sprint #**|**Sprint 2**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+|**E2-US01**|<p></p><p>Registro de cuentas</p><p></p>|<p>T1</p><p></p>|Interfaz de usuario del inicio de registro de cuentas|Implementar interfaz de los formularios para el registro de cuentas para ambos segmentos como cliente y staff|4|David Soto|Done|
+|**E2-US02**|Inicio de sesión|T2|Interfaz de usuario de inicio de sesión|Implementar interfaz de formularios para el inicio de sesión de las cuentas de ambos segmentos como cliente y staff|2|David Soto|Done|
+|**E2-US03**|Recuperación de contraseña|T3|Interfaz de usuario de recuperación de contraseña|Implementar interfaz de formularios para la recuperación de contraseña de ambos segmentos objetivos|1|David Soto|Done|
+|**E3-US01**|Barra de navegación|T4|Componente de usuario de barra de navegación|Implementar el componente de barra de navegación|2|Abraham Ayquipa|Done|
+|**E3-US04**|Recibir notificaciones|T5|Interfaz de usuario para recibir notificaciones |Implementar interfaz de para que el segmento cliente pueda recibir notificaciones|1|Franky Mallma|Done|
+|**E3-U05**|Pasarela de pagos|T6|Interfaz de usuario para observar lista de productos y total a pagar|Implementar interfaz para la visualización de productos, total a pagar, formularios que permitan llenar la información requerida para el pago y opciones de pago|3|Alexandra Ramos|Done|
+|<p></p><p>**E3-U06**</p><p></p>|<p></p><p>Visualización de Productos </p><p></p>|T7|Interfaz del usuario principal para poder ver los productos|Implementar interfaz para la sección de home(pantalla principal) |4|Mariana Chambi|Done|
+
+**Sprint backlog 3:**
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: <https://trello.com/invite/b/zePVROvF/ATTI499b4e4bd2c47988cac171315884a3ed90457DCB/sprint-backlog-3-cartunn>  
+
+Vista del Sprint Backlog 3 en Trello
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.007.png)
+
+|**Sprint #**|**Sprint 3**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+|<p></p><p>E4-US01</p>|<p></p><p>Dashboard del staff</p>|T1|Dashboard de órdenes para la visualización del staff |Agregar una tabla con información de las órdenes, agregar modal para agregar una observación, agregar date-picker para modificar las fechas de entrada y salida |3|Alexandra Ramos|Done|
+|<p></p><p>E4-US02</p>|Sección de manage returns|T1|Sección de los products refunds|Agregar los products refunds en la sección al igual que el dialog en el cual habrá un formulario para editar el product refund|3|Natanael Soto|Done|
+|<p></p><p>E4-US03</p>|Secciones de Items|T1|Secciones de items para la interfaz del staff|Agregar formularios para agregar, actualizar o eliminar items|5|Mariana Chambi|Done|
+|<p></p><p>E4-US04</p>|Sección de Notificaciones|T1|Interfaz de staff para enviar notificaciones |Implementar formularios para que el staff pueda enviar notificaciones al cliente y proveedor |5|Mariana Chambi|Done|
+|E6-US04|Información de los productos|T1|API Endpoint para el manejo y demostración de información de los productos|Implementar bounded context de Products para la información de los productos|6|Mariana Chambi|Done|
+|E6-US07|Información de los reportes|T1|<p>API Endpoint para el manejo y demostración de información de los reportes</p><p></p>|<p>Implementar bounded context de Tunning para la información de los reportes</p><p></p>|6|Mariana Chambi|Done|
+|E6-US03|Información de las órdenes de compra|T1|API Endpoint para el manejo y demostración de información de los órdenes de compra|Implementar el bounded context Purchasing donde aparecen las órdenes de compra del cliente|7|Abraham Ayquipa|Done|
+|E6-US06|Sección Profiles|T1|Api Endpoint para el ingresar información y actualización de profiles|Implementar el bounded context de Profiles para ingresar información de usuario|6|Franky|Done|
+|<p></p><p>E6-US05</p><p></p>|<p></p><p>Data de los productos o servicios a pagar por los clientes, así como el precio total.</p><p></p>|T1|API Endpoint para el manejo y demostración de información de los productos o servicios a pagar con el precio total.|Implementar el bounded context de Payments, donde aparece la información de los productos elegidos por el cliente para su compra|8|Alexandra Ramos|Done|
+|EP1-US05|Sección about the product y about the team|T1|Agregar el video de about the product y about the team|<p>Agregar el video de about the product y about the team reemplazando los placeholders</p><p></p>|5|Natanael|Done|
+
+**Sprint backlog 4:**
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: <https://trello.com/b/836qH3mj/sprint-backlog-4-cartunn> 
+
+Vista del Sprint Backlog 4 en Trello
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.008.png)
+
+|**Sprint #**|**Sprint 4**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+|E6-US07|Traer la información de los productos hacia la sección de productos-favoritos|<p>T1</p><p></p>|API Endpoint para el manejo y demostración de información de los productos-favoritos|Implementar en el bounded context Products un nuevo aggregate que referencia a Favorites|5|Mariana Chambi|Done|
+|E6-US08|<p>Traer la información de las notificaciones</p><p></p>|T1|API Endpoint para el manejo y demostración de información de las notificaciones|<p>Implementar bounded context de Notifications para la información de las notificaciones</p><p></p>|5|Abraham Ayquipa|Done|
+|E6-US10|Traer la información de los productos de reembolso|T1|API Endpoint para el manejo y demostración de información de los productos de reembolso|Implementar en el bounded context Product Refund un nuevo aggregate que referencia a Orders|5|Franky Mallma|Done|
+|E6-US09|Traer la información de pagos|T1|API Endpoint para el manejo y demostración de los pagos|Implementar el bounded context de Payment para la información de los pagos del carrito de compras|6|Alexandra Ramos|Done|
+|E6-US11|Autenticaciónde usuario|T1|API Endpoint para el manejo de información de los usuarios|Implementar endpoint para obtener la información de los usuarios|8|Natanael  Soto|Done|
+|E3-US07|<p></p><p>Visualización del producto a ordenar </p>|T1|Interacción con los productos|Implementar un botón de orden hacia el producto de su elección|4|Franky Mallma|Done|
+
+
+
+
+
+
+5.2.2. **Implemented Landing Page Evidence**
+
+   Deploy: <https://legendary-banoffee-4f9ca1.netlify.app/> 
+
+   Repositorio: <https://github.com/Experiments-Design-WX72-Group-5/cartunn-landingpage>  
+
+   Evidencias de la implementación de la Landing Page:
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.009.png)
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.010.png)
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.011.png)
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.012.png)
+
+
+
+
+5.2.3. **Implemented Frontend-Web Application Evidence**
+
+   Deploy: <https://luxury-rolypoly-707671.netlify.app/sign-in> 
+
+   Repositorio: <https://github.com/Experiments-Design-WX72-Group-5/cartunn-frontend>  
+
+   Evidencias de la implementación de la Aplicación web:
+
+   Pantalla de Login
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.013.png)
+
+   Pantalla de Sign up
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.014.png)
+
+   Pantalla de reset you password
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.015.png)
+
+
+
+
+Dashboard
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.016.png)
+
+Pantalla de favoritos
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.017.png)
+
+Pantalla de notificaciones
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.018.png)
+
+Pantalla de status report
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.019.png)
+
+Pantalla de Carrito de compras
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.020.png)
+
+Pantalla de configuraciones
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.021.png)
+
+Pantalla de Help and center
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.022.png)
+
+
+
+
+5.2.4. **Implemented Native-Mobile Application Evidence**
+
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.023.png)
+
+5.2.5. **Implemented RESTful API and/or Serverless Backend Evidence** 
+
+   Repositorio: <https://github.com/Experiments-Design-WX72-Group-5/cartunn-backend>  
+
+   Evidencias de la implementación de la Api:
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.024.png)
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.025.png)
+
+   ![A screenshot of a computer
+AI-generated content may be incorrect.](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.026.png)
+
+
+
+
+5.2.6. **RESTful API documentation**
+
+### Tunning
+
+| **Bounded Context** | Tunning |     |
+|---------------------|---------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Tunning_Task        | api/v1/tunning-task | ** |
+
+---
+
+### IAM
+
+| **Bounded Context** | IAM |     |
+|---------------------|-----|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| User                | - `api/v1/authentication/sign-in`<br>- `api/v1/authentication/sign-up` | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.028.png) |
+
+---
+
+### Products
+
+| **Bounded Context** | Products |     |
+|---------------------|----------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Product             | api/v1/products | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.029.png) |
+
+---
+
+### Profile
+
+| **Bounded Context** | Profile |     |
+|---------------------|---------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Profile             | api/v1/profiles | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.030.png) |
+
+---
+
+### Purchasing
+
+| **Bounded Context** | Purchasing |     |
+|---------------------|------------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Orders              | api/v1/orders | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.031.png) |
+
+---
+
+### Notifications
+
+| **Bounded Context** | Notifications |     |
+|---------------------|---------------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Notification        | api/v1/notifications | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.032.png) |
+
+---
+
+### Payments
+
+| **Bounded Context** | Payments |     |
+|---------------------|----------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Cart                | api/v1/carts | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.033.png) |
+| Payment             | api/v1/payment | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.034.png) |
+
+---
+
+### Products Refunds
+
+| **Bounded Context** | Products Refunds |     |
+|---------------------|------------------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| ProductRefund       | api/v1/product-refund | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.035.png) |
+
+---
+
+### Favorites
+
+| **Bounded Context** | Favorites |     |
+|---------------------|-----------|-----|
+| **Entity**          | **Endpoint URL** | **Swagger** |
+| Favorite            | api/v1/favorites | ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.036.png) |
+
+
+
+
+5.2.7. **Team collaboration insights**
+
+   **Distribución de aportes en nuestra aplicación:**
+
+   **Github analytics de nuestro último sprint - landing page:**
+
+   ![A screenshot of a computer
+AI-generated content may be incorrect.](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.037.png)** 
+
+   **Github analytics de nuestro último sprint - frontend:** 
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.038.png)
+
+**Github analytics de nuestro tercer sprint - backend:** 
+
+   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.039.png)
+
+**5.3. Video About the product**
+
+En esta sección, introducimos y describimos el contenido del Video About-the-Product, el cual está dirigido a los visitantes de la Landing Page que desean conocer un poco más acerca de Cartunn.
+
+El video presenta tanto la Landing Page como la aplicación web de Cartunn, permitiendo a los usuarios apreciar sus funcionalidades. El tono utilizado en el video es consistente con el tono adoptado para el producto, asegurando una comunicación coherente y efectiva.
+
+Incluimos un testimonio positivo de un usuario por cada segmento objetivo que participó en las entrevistas de validación, destacando la satisfacción y los beneficios experimentados al utilizar la plataforma.
+
+Link del video en Microsoft Stream: <https://upcedupe-my.sharepoint.com/personal/u202215164_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215164%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw51%2DTheCoders%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E70656a86%2D8171%2D43d0%2Dad17%2Dfd94793b8c48> 
+
+   Link del video en YouTube: <https://youtu.be/Ku1E-IZoP_k>  
+
+   Duración del video: 2:47
+
+![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.040.png)
+
+## Bibliografía
+
+- Peru, N. (2023, junio 24). *Aumentan las estafas cibernéticas de repuestos y accesorios de autos*. Peru21. [https://peru21.pe/lima/estafas-sector-automotriz-ventas-electronicas-renusa-aumentan-las-estafas-ciberneticas-de-repuestos-y-accesorios-de-autos-noticia/](https://peru21.pe/lima/estafas-sector-automotriz-ventas-electronicas-renusa-aumentan-las-estafas-ciberneticas-de-repuestos-y-accesorios-de-autos-noticia/)
+
+- Loscalzo, J. (21 de abril de 2018). *Domain Driven Design: principios, beneficios y elementos — Primera Parte*. Medium. [https://medium.com/@jonathanloscalzo/domain-driven-design-principios-beneficios-y-elementos-primera-parte-aad90f30aa35](https://medium.com/@jonathanloscalzo/domain-driven-design-principios-beneficios-y-elementos-primera-parte-aad90f30aa35)
+
+- Vetukuri, J. (17 de octubre de 2023). *Getting Started with Angular Front-End Development: A Step-by-Step Guide*. Medium. [https://medium.com/@jahnavivetukuri/getting-started-with-angular-front-end-development-a-step-by-step-guide-e61186308ac7](https://medium.com/@jahnavivetukuri/getting-started-with-angular-front-end-development-a-step-by-step-guide-e61186308ac7)
+
 
