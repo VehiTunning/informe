@@ -545,7 +545,8 @@ https://uxpressia.com/w/DeRZM/p/h3zhF <br>
 
 "En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos (cliente y staff mecánico), que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto"
 
-
+![user Task Matrix](assets/CAP2/user-task-matrix.png)
+![user Task Matrix](assets/CAP2/user-task-matrix2.png)
 
 
 Juan Velásquez (Cliente)
