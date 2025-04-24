@@ -533,11 +533,13 @@ Con el propósito de desarrollar una app que satisfaga las necesidades particula
 
 Para esta sección se presentan personajes ficticios, uno de acuerdo a cada segmento objetivo. La información que se ha utilizado para elaborar los User personas se obtuvo de las entrevistas realizadas previamente a cada segmento objetivo. La intención de las entrevistas era conocer un poco más a las personas a las que la aplicación está dirigida. Entre la información de las entrevistas que fue utilizada tenemos demografía, metas, motivaciones, frustraciones, marcas relacionadas con el tema que envuelve a la aplicación, canales digitales que más utiliza, etc. Para la creación de esta sección se utilizó la plataforma UXPressia.
 
-Segmento objetivo: Clientes que buscan customizar sus autos
-https://uxpressia.com/w/DeRZM/p/7vFyy 
+Segmento objetivo: Clientes que buscan customizar sus autos <br>
+https://uxpressia.com/w/DeRZM/p/7vFyy <br>
+![user persona clientes](assets/CAP2/user-persona-clientes.png)
  
-Segmento objetivo: Staff mecánico
-https://uxpressia.com/w/DeRZM/p/h3zhF 
+Segmento objetivo: Staff mecánico <br>
+https://uxpressia.com/w/DeRZM/p/h3zhF <br>
+![user persona staff](assets/CAP2/user-persona-statff.png)
 
 ### 2.3.2 User Task Matrix
 
