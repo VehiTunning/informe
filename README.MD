@@ -20,11 +20,11 @@
 **Startup:** VisionTech  
 **Producto:** CarTunn
 
-| Código      | Nombre                           |
-|-------------|----------------------------------|
-| U202212112  | Luis Sebastian Chinchihualpa Saldarriaga   |
-| U  | Franky Oswald Mallma Espiritu   |
-| U20211G671  | Britney Delhy Qqueso Rodriguez   |
+| Código     | Nombre                           |
+|------------|----------------------------------|
+| U202212112 | Luis Sebastian Chinchihualpa Saldarriaga   |
+| U20211c250 | Franky Oswald Mallma Espiritu   |
+| U20211G671 | Britney Delhy Qqueso Rodriguez   |
 
 
 **Abril - 2025**
@@ -114,7 +114,7 @@
 
 # **Project Report Online**
 
-URL Project Report (Github): 
+URL Project Report (Github): https://github.com/upc-pre-202510-1ASI0732-4429-use-code/informe
 
 # Capítulo I: Introducción
 
@@ -132,12 +132,13 @@ Convertirnos en referentes globales en innovación para la personalización auto
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-|  Nombres y Apellidos |    Codigo   | Descripción | Foto | 
-|----------------------|-------------|-------------|------|
-|   |     |     |     |    |
-| Luis Sebastian Chinchihualpa Saldarriaga |  U.......  | descripcion de cada uno |      |
-| Franky Oswald Mallma Espiritu |  U..... | descripcion de cada uno |     |
-| Britney Delhy Qqueso Rodriguez | U20211G671 | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Cuento con experiencia en liderazgo y trabajo en equipo, y disfruto aprendiendo tanto de las personas como de las tecnologías con las que colaboro. Poseo conocimientos en diversos lenguajes de programación, como Python, HTML, CSS, JavaScript, entre otros. |     |
+|  Nombres y Apellidos | Codigo     | Descripción |  
+|----------------------|------------|-------------|
+|   |            |     |     |    |
+| Luis Sebastian Chinchihualpa Saldarriaga | U202212112 | Soy estudiante de sexto ciclo de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por mantener un enfoque organizado y comprometido en cada tarea. Tengo conocimientos en lenguajes de programación como C + + y Python, así como en desarrollo web, los cuales he aplicado en diversos proyectos. |      
+| Franky Oswald Mallma Espiritu | U20211c250 | Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software. Considero que soy una persona responsable, capaz de aportar distintas ideas y de organizar el trabajo para el desarrollo de nuevos proyectos. Sigo aprendiendo diversas ramas de esta carrera como son backend, frontend y nuevos lenguajes de programación que me interesan aprender.
+|     |
+| Britney Delhy Qqueso Rodriguez | U20211G671 | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Cuento con experiencia en liderazgo y trabajo en equipo, y disfruto aprendiendo tanto de las personas como de las tecnologías con las que colaboro. Poseo conocimientos en diversos lenguajes de programación, como Python, HTML, CSS, JavaScript, entre otros. |     
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
