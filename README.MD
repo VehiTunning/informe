@@ -18,7 +18,7 @@
 **Docente:** Ivan Robles Fernández 
 
 **Startup:** VisionTech  
-**Producto:** VehiTunning
+**Producto:** CarTunn
 
 | Código      | Nombre                           |
 |-------------|----------------------------------|
@@ -69,6 +69,7 @@
   </tbody>
 </table>
 
+
 # **Student Outcomes**
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
@@ -78,19 +79,38 @@
       <th>Conclusiones</th>
     </tr>
   </thead>
-    <tbody>
+  <tbody>
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software</strong></td>
-      <td style="border-right: 1px solid black;"><p><strong>TB1</strong></p></td>
-      <td></td>
-     </tr>
-     <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;">
+        <p><strong>TB1</strong></p>
+        <ul>
+          <li><strong>Luis Sebastian Chinchihualpa Saldarriaga:</strong> Identificó y documentó prácticas éticas al desarrollar código, como el uso responsable de licencias de software.</li>
+          <li><strong>Britney Delhy Qqueso Rodriguez:</strong> Estableció normas internas para evitar el plagio y fomentar la autoría original del código en el equipo.</li>
+          <li><strong>Franky Oswald Mallma Espiritu:</strong> Investigó y compartió casos reales de dilemas éticos en ingeniería de software para sensibilizar al equipo.</li>
+        </ul>
+      </td>
+      <td>
+        Se concluyó que la ética profesional es fundamental en todas las etapas del desarrollo de software. Se valoró el compromiso individual y grupal para actuar con integridad, reforzando la confianza del usuario y la calidad del producto.
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>4.c.2 Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales</strong></td>
-      <td style="border-right: 1px solid black;"><p><strong>TB1</strong></p></td>
-      <td></td>
-     </tr>
+      <td style="border-right: 1px solid black;">
+        <p><strong>TB1</strong></p>
+        <ul>
+          <li><strong>Luis Sebastian Chinchihualpa Saldarriaga :</strong> Analizó el impacto económico de una posible implementación en una empresa real simulada, destacando costos y beneficios.</li>
+          <li><strong>Britney Delhy Qqueso Rodriguez:</strong> Propuso una solución de bajo consumo energético como parte del diseño de la arquitectura del software.</li>
+          <li><strong>Franky Oswald Mallma Espiritu:</strong> Evaluó cómo el sistema podría mejorar el acceso a servicios tecnológicos para comunidades vulnerables.</li>
+        </ul>
+      </td>
+      <td>
+        Se reconoció la importancia de tomar decisiones técnicas que consideren el entorno global y local. El equipo desarrolló conciencia sobre cómo su trabajo puede generar beneficios o riesgos en la sociedad, el ambiente y la economía.
+      </td>
+    </tr>
   </tbody>
 </table>
+
 
 # **Project Report Online**
 
@@ -102,7 +122,7 @@ URL Project Report (Github):
 ### 1.1.1 Descripción de la Startup
 VisionTech es una startup creada por estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC), con la motivación de transformar la experiencia de personalización automotriz. Nace con el compromiso de solucionar las principales barreras que enfrentan los entusiastas de los autos al personalizar sus vehículos, como la falta de orientación profesional, la escasa variedad de servicios, precios poco accesibles y una limitada transparencia en el proceso.
 
-A través de nuestra plataforma VehiTunning, ofrecemos un ecosistema digital completo que conecta a usuarios con proveedores certificados, facilitando decisiones informadas mediante cotizaciones automatizadas, comparativas inteligentes y asesoramiento especializado. Contamos con un equipo apasionado por la innovación tecnológica y la ingeniería de calidad, que trabaja incansablemente para garantizar una experiencia de personalización única, accesible y completamente centrada en las expectativas de cada usuario.
+A través de nuestra plataforma CarTunn, ofrecemos un ecosistema digital completo que conecta a usuarios con proveedores certificados, facilitando decisiones informadas mediante cotizaciones automatizadas, comparativas inteligentes y asesoramiento especializado. Contamos con un equipo apasionado por la innovación tecnológica y la ingeniería de calidad, que trabaja incansablemente para garantizar una experiencia de personalización única, accesible y completamente centrada en las expectativas de cada usuario.
 
 **Misión:** <br>
 Facilitar la personalización automotriz a través de una plataforma digital accesible, inteligente y transparente, que brinde a los usuarios atención personalizada, precios justos y asesoramiento técnico especializado.
@@ -126,18 +146,18 @@ Convertirnos en referentes globales en innovación para la personalización auto
 En la actualidad, el sector de personalización automotriz enfrenta una falta alarmante de transparencia y un auge de prácticas poco éticas por parte de talleres y vendedores de accesorios. Esta situación genera desinformación entre los entusiastas del tuning, quienes no cuentan con el conocimiento necesario para diferenciar entre servicios auténticos y engañosos. Como resultado, muchos terminan tomando decisiones equivocadas, adquiriendo productos de baja calidad o pagando precios injustificados.
 
 **¿Cuál es la relación con la persona en cuestión?** <br>
-El usuario final es un entusiasta automotriz que busca personalizar su vehículo pero se enfrenta a un mercado desorganizado, con presupuestos opacos y sin asesoramiento técnico confiable. VehiTunning se posiciona como una solución que centraliza la información, asesora al usuario y garantiza precios justos y procesos transparentes.
+El usuario final es un entusiasta automotriz que busca personalizar su vehículo pero se enfrenta a un mercado desorganizado, con presupuestos opacos y sin asesoramiento técnico confiable. CarTunn se posiciona como una solución que centraliza la información, asesora al usuario y garantiza precios justos y procesos transparentes.
 
 #### When
 **¿Cuándo sucede el problema?** <br>
 El problema se presenta durante el proceso de personalización de un vehículo, al cotizar accesorios, realizar modificaciones estéticas o técnicas, o al elegir servicios especializados. La falta de referencias claras y profesionales capacitados expone a los consumidores a engaños frecuentes.
 
 **¿Cuándo utiliza el cliente el producto?** <br>
-El cliente accede a VehiTunning antes, durante y después de la personalización de su vehículo: para explorar opciones, comparar precios, recibir asesoría experta, seleccionar proveedores verificados y monitorear el proceso en tiempo real.
+El cliente accede a CarTunn antes, durante y después de la personalización de su vehículo: para explorar opciones, comparar precios, recibir asesoría experta, seleccionar proveedores verificados y monitorear el proceso en tiempo real.
 
 #### Where
 **¿Dónde está el cliente cuando utiliza el producto?** <br>
-Los usuarios pueden utilizar VehiTunning desde sus hogares, talleres mecánicos o concesionarios, accediendo desde computadoras, smartphones o tablets.
+Los usuarios pueden utilizar CarTunn desde sus hogares, talleres mecánicos o concesionarios, accediendo desde computadoras, smartphones o tablets.
 
 **¿Dónde surge el problema?** <br>
 El problema se origina en talleres físicos, tiendas de accesorios y plataformas en línea que operan sin regulaciones claras ni controles de calidad, lo cual permite la existencia de estafas, sobreprecios y desinformación.
@@ -150,7 +170,7 @@ Clientes apasionados por los automóviles, técnicos mecánicos, proveedores de 
 A los consumidores interesados en modificar o mejorar sus vehículos, que frecuentemente son víctimas de presupuestos inflados, componentes de dudosa procedencia o instalaciones deficientes.
 
 **¿Quién lo utiliza?** <br>
-VehiTunning está diseñado para ser utilizado por clientes finales, pero también por talleres aliados que deseen integrarse a un ecosistema más ético y transparente, promoviendo la confianza y la profesionalización del rubro.
+CarTunn está diseñado para ser utilizado por clientes finales, pero también por talleres aliados que deseen integrarse a un ecosistema más ético y transparente, promoviendo la confianza y la profesionalización del rubro.
 
 #### Why
 **¿Cuál es la causa del problema?** <br>
@@ -158,7 +178,7 @@ La raíz del problema radica en la falta de regulación del mercado y en la esca
 
 #### How
 **¿En qué condiciones nuestros clientes usan el producto?** <br>
-En contextos urbanos, de alto tráfico automotor, donde existe una fuerte cultura del tuning pero con acceso limitado a información confiable. Los usuarios recurren a VehiTunning cuando desean asegurar una experiencia personalizada, segura y transparente.
+En contextos urbanos, de alto tráfico automotor, donde existe una fuerte cultura del tuning pero con acceso limitado a información confiable. Los usuarios recurren a CarTunn cuando desean asegurar una experiencia personalizada, segura y transparente.
 
 **¿Cómo nos conocieron nuestros compradores?** <br>
 A través de redes sociales, foros automotrices, alianzas con talleres certificados, recomendaciones entre usuarios y eventos de cultura tuning.
@@ -889,41 +909,31 @@ En relación con nuestra aplicación, también hemos implementado botones de acc
 AI-generated content may be incorrect.](assets/CAP4/Aspose.Words.e93a51a3-b841-4ee5-9fd1-99e22542e9df.014.png)
 
 ### 4.2.3 SEO Tags and Meta Tags
-**Landing Page:** 
+**Landing Page:**
 
- <meta charset= UTF-8 >  
+```html
+<meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="agriculture" content="index, follow"> 
+<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon"/> 
+<title>CarTunn</title> 
+<meta name="keywords" content="cartunn, tunning, mechanical staff, report, Customization, orders, automotive customization , software, accessories, customization services"> 
+<meta name="description" content="Start now customizing your car now, There are already dozens of car lovers who have trusted us, you be one more">
+```
 
-<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+**Web Application:**
 
-<meta name= "viewport" content="width=device-width, initial-scale=1.0"> 
-
-<meta name="agriculture" content="index, follow"> 
-
-<link rel="shortcut icon" href="\*./images/favicon.png" type="image/x-icon"/> 
-
-<title>CarTunn</title> 
-
-<meta name="keywords" content="cartunn, tunning, mechanical staff, report, Customization, orders, automotive customization , software, accessories, customization services"> 
-
-<meta name="description" content="Start now customizing your car now, There are already dozens of car lovers who have trusted us, you be one more"> 
-
-**Web Application:** 
-
-<meta charset= UTF-8 > 
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-
-<meta name= "viewport" content="width=device-width, initial-scale=1.0"> 
-
-<meta name="customization" content="index, follow"> 
-
-<link rel="shortcut icon" href="\*./images/favicon.png" type="image/x-icon"/> 
-
-<title>CarTunn</title> 
-
-<meta name="keywords" content="CarTunn,CarTunn Log In, CarTunn Sing Up, CarTunn app, CarTunn register, customization software,"> 
-
-<meta name="description" content="CarTunn Log In.Start now customizing your car now.Collaborative platform between mechanical staff and clients who want to customize their cars."> 
+```html
+<meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="customization" content="index, follow"> 
+<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon"/> 
+<title>CarTunn</title> 
+<meta name="keywords" content="CarTunn,CarTunn Log In, CarTunn Sing Up, CarTunn app, CarTunn register, customization software,"> 
+<meta name="description" content="CarTunn Log In. Start now customizing your car now. Collaborative platform between mechanical staff and clients who want to customize their cars.">
+```
 
 
 ### 4.2.4 Searching Systems
@@ -1263,7 +1273,7 @@ Para el desarrollo de esta sección de nuestro proyecto fue necesario usar la he
 ### 4.5.2. iOS Mobile Applications Prototyping.
 ## 4.6. Web Applications UX/UI Design.
 ### 4.6.1. Web Applications Wireframes.
-                                        User goal: El usuario se registra, restablece su contraseña o inicia sesión en la aplicación
+User goal: El usuario se registra, restablece su contraseña o inicia sesión en la aplicación
 
    Inicio de sesión
 
@@ -1810,9 +1820,9 @@ Plataforma empleada tanto como para la creación de la documentación y de la La
 5.1.2. **Source Code Management**
 La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
 
-Organización: <https://github.com/upc-pre-202401-si729-sw51-the-coders> 
+Organización: <https://github.com/upc-pre-202510-1ASI0732-4429-use-code> 
 
-   Repositorio de la Landing page: <https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre-202401-si729-sw51-the-coders-landing-page> 
+   Repositorio de la Landing page: <https://github.com/upc-pre-202510-1ASI0732-4429-use-code/landing-page> 
 
    Además, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se procedió a utilizar Gitflow.
 
@@ -2002,7 +2012,7 @@ Vista del Sprint Backlog 4 en Trello
 
    Deploy: <https://legendary-banoffee-4f9ca1.netlify.app/> 
 
-   Repositorio: <https://github.com/Experiments-Design-WX72-Group-5/cartunn-landingpage>  
+   Repositorio: <https://github.com/upc-pre-202510-1ASI0732-4429-use-code/landing-page>  
 
    Evidencias de la implementación de la Landing Page:
 
@@ -2021,7 +2031,7 @@ Vista del Sprint Backlog 4 en Trello
 
    Deploy: <https://luxury-rolypoly-707671.netlify.app/sign-in> 
 
-   Repositorio: <https://github.com/Experiments-Design-WX72-Group-5/cartunn-frontend>  
+   Repositorio: <https://github.com/upc-pre-202510-1ASI0732-4429-use-code/frontend>  
 
    Evidencias de la implementación de la Aplicación web:
 
@@ -2078,7 +2088,7 @@ Pantalla de Help and center
 
 5.2.5. **Implemented RESTful API and/or Serverless Backend Evidence** 
 
-   Repositorio: <https://github.com/Experiments-Design-WX72-Group-5/cartunn-backend>  
+   Repositorio: <https://github.com/upc-pre-202510-1ASI0732-4429-use-code/backend>  
 
    Evidencias de la implementación de la Api:
 
@@ -2184,15 +2194,15 @@ AI-generated content may be incorrect.](assets/CAP5/Aspose.Words.0b45873d-1eca-4
    **Github analytics de nuestro último sprint - landing page:**
 
    ![A screenshot of a computer
-AI-generated content may be incorrect.](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.037.png)** 
+AI-generated content may be incorrect.](assets/CAP5/insight.png)** 
 
    **Github analytics de nuestro último sprint - frontend:** 
 
-   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.038.png)
+   ![](assets/CAP5/insight.png)
 
 **Github analytics de nuestro tercer sprint - backend:** 
 
-   ![](assets/CAP5/Aspose.Words.0b45873d-1eca-4feb-8550-630d230b7f18.039.png)
+   ![](assets/CAP5/insight.png)
 
 **5.3. Video About the product**
 
@@ -2202,9 +2212,8 @@ El video presenta tanto la Landing Page como la aplicación web de Cartunn, perm
 
 Incluimos un testimonio positivo de un usuario por cada segmento objetivo que participó en las entrevistas de validación, destacando la satisfacción y los beneficios experimentados al utilizar la plataforma.
 
-Link del video en Microsoft Stream: <https://upcedupe-my.sharepoint.com/personal/u202215164_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215164%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw51%2DTheCoders%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E70656a86%2D8171%2D43d0%2Dad17%2Dfd94793b8c48> 
+Link del video en Microsoft Stream: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/Ea7Rrl0gAWRAjvZdSNVZWX4B-u4rI5ToUpAWAxWYu8VlRg?e=TGQFu3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> 
 
-   Link del video en YouTube: <https://youtu.be/Ku1E-IZoP_k>  
 
    Duración del video: 2:47
 
