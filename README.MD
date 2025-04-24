@@ -563,24 +563,26 @@ Este análisis subraya la necesidad de un sistema que facilite tanto la compra e
 
 ### 2.3.3 User Journey Mapping
 
-En esta sección se presentarán los user journey mapping para cada user persona.
-User Journey Mapping: Cliente 
-link uxpressia : https://uxpressia.com/w/DeRZM/m/NSHLe 
- 
-User Journey Mapping: Staff: 
-link uxpressia: https://uxpressia.com/w/DeRZM/m/vPaXH 
+En esta sección se presentarán los user journey mapping para cada user persona. <br>
+User Journey Mapping: Cliente  <br>
+link uxpressia : https://uxpressia.com/w/DeRZM/m/NSHLe <br>
+![User Journey Mapping Cliente](assets/CAP2/Journey-Mapping-Cliente.png)
+
+User Journey Mapping: Staff: <br>
+link uxpressia: https://uxpressia.com/w/DeRZM/m/vPaXH <br>
+![User Journey Mapping Staff](assets/CAP2/Journey-Mapping-Staff.png)
 
 
 ### 2.3.4 Empathy Mapping
 
-En esta sección se presentarán los empathy mapping de acuerdo a los user persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El empathy mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permite mejorar algunos aspectos de la aplicación.
-Segmento objetivo: Clientes que buscan customizar sus autos
-https://uxpressia.com/w/DeRZM/p/6tcWn 
- 
+En esta sección se presentarán los empathy mapping de acuerdo a los user persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El empathy mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permite mejorar algunos aspectos de la aplicación.<br>
+Segmento objetivo: Clientes que buscan customizar sus autos <br>
+https://uxpressia.com/w/DeRZM/p/6tcWn <br>
+![Empathy Mapping Cliente](assets/CAP2/Empathy-Mapping-Cliente.png)
 
-Segmento objetivo: Staff mecánico
-https://uxpressia.com/w/DeRZM/p/G0tpM 
- 
+Segmento objetivo: Staff mecánico <br>
+https://uxpressia.com/w/DeRZM/p/G0tpM <br>
+![Empathy Mapping Staff](assets/CAP2/Empathy-Mapping-Staff.png)
 
 ### 2.3.5 As-is Scenario Mapping
 
@@ -590,23 +592,11 @@ As-is scenario Mapping : Cliente
 https://miro.com/welcomeonboard/NDFUcUtZQU9SWkZ4SDhKUnNoR0RFVjhWTWZnTFNGd245YVBzZU1UQkxsR3E2WjFaMURtZXY3QjRDeG1DYW53cXwzNDU4NzY0NTUxNzYxNjYxMjg2fDI=?share_link_id=418419123921 
  
 Brainstorm individually: 
- 
-
-
-
-
-
-
-
-
-
-
-
+![As-is scenario Mapping Cliente](assets/CAP2/As-is-Scenario-Mapping-Cliente1.png)
 
 Identify the highs and lows: 
-
+![As-is scenario Mapping Cliente](assets/CAP2/As-is-Scenario-Mapping-Cliente2.png)
  
-
 Áreas Positivas:
 
 Compra las piezas por internet y espera la fecha de recepción de piezas..
@@ -619,38 +609,15 @@ Blank Areas (Áreas que requieren aprender más):
 Cómo retirar la pieza y cambiarla.
 Cómo encontrar ayuda y soluciones cuando las redes sociales no proveen respuestas satisfactorias.
 
-
-
-
-
-
-
-
-
-
 As-is scenario mapping : Staff mecanico
 
 https://miro.com/welcomeonboard/NDFUcUtZQU9SWkZ4SDhKUnNoR0RFVjhWTWZnTFNGd245YVBzZU1UQkxsR3E2WjFaMURtZXY3QjRDeG1DYW53cXwzNDU4NzY0NTUxNzYxNjYxMjg2fDI=?share_link_id=418419123921 
 
 Brainstorm individually:
- 
-
-
-
-
-
-
-
-
-
-
-
-
+![As-is scenario Mapping Staff](assets/CAP2/As-is-Scenario-Mapping-Staff1.png)
 
 Identify the highs and lows:
-
- 
-
+![As-is scenario Mapping Staff](assets/CAP2/As-is-Scenario-Mapping-Staff2.png)
 
 Áreas Positivas:
 - Se busca una aplicación para personalizar autos y se publica oferta laboral en software terciario.
