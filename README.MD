@@ -576,7 +576,7 @@ Tarea habitual pero menos crítica: Buscar un sitio web de taller de personaliza
 
 Esteban Domínguez (Staff Mecánico)
 Tareas críticas: Dar la fecha de entrega de trabajo y comunicar el trabajo terminado, ambas con alta frecuencia e importancia. Esto sugiere la necesidad de una funcionalidad robusta para la gestión de tareas y notificaciones dentro del sistema.
-Tarea regular: Hacer una observación sobre el trabajo, que requiere un sistema de comentarios o notas dentro de las órdenes de trabajo.
+Tarea regular: Hacer una observación sobre el trabajo, que requiere un sistema de comentarios o notas dentro de las órdenes de trab11ajo.
 
 General
 Las tareas del cliente están enfocadas en la interacción inicial y compra, mientras que las del staff se centran en la gestión y comunicación de los procesos de trabajo.
